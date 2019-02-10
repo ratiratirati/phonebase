@@ -1,0 +1,68 @@
+body{
+    background-image: url("../img/background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+.form_box{
+    padding-top: 3%;
+    margin: auto;
+    width: 550px;
+    height: 590px;
+    background-color: rgba(0,0,0,0.5);
+    text-align: center;
+}
+
+.form_box input{
+    width: 70%;
+    height: 60px;
+    margin-top: 10px;
+    padding-left: 10px;
+    font-size: 17px;
+    border: none;
+    outline: none;
+    font-family: 'BPG Algeti';
+
+}
+
+.form_box button{
+    width: 70%;
+    height: 50px;
+    margin-top: 10px;
+    font-size: 17px;
+    border: none;
+    outline: none;
+    background-color: orangered;
+    color: white;
+    font-family: 'BPG Algeti';
+
+}
+
+
+.msgs{
+    color: white;
+    font-size: 19px;
+    font-family: 'BPG Algeti';
+    margin-top: 20px;
+}
+
+.msg{
+   color: white;
+    font-size: 19px;
+    font-family: 'BPG Algeti';
+}
+
+.raodenoba{
+    margin-top: 10px;
+    color: white;
+    font-family: 'BPG Algeti';
+    font-size: 17px;
+}
+
+
+.error{
+    color: red;
+    font-size: 19px;
+    font-family: 'BPG Algeti';
+}
